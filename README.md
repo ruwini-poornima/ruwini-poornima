@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruwini Poornima</h1>
-<h3 align="center">Engineering Technology Student | Specializing in Mechatronics and Robotics</h3>
+<h3 align="center">Engineering Technology Student | Specializing in Mechatronics Technology</h3>
 
 - 🌱 I’m currently learning **SolidWorks**
 
