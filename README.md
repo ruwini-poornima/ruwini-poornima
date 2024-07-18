@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ruwini Poornima</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ruwini+Poornima!;" />
+</h1>
 <h3 align="center">Engineering Technology Student | Specializing in Mechatronics Technology</h3>
+<div align="center">
+  <img src="https://pbs.twimg.com/media/F6pPYGgWgAAOGjO?format=jpg&name=4096x4096" width="350" height="350">
+</div>
 
 - 🌱 I’m currently learning **SolidWorks**
 
